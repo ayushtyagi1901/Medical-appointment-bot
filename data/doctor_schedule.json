@@ -1,0 +1,4225 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Primary Care Physician",
+      "email": "sarah.johnson@healthcareplus.com",
+      "available_slots": [
+        {
+          "date": "2025-11-01",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-02",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-03",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-04",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-05",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-06",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-07",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-08",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-09",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-10",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-11",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-12",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-13",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-14",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-15",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-16",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-17",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-18",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-19",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-20",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-21",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-22",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-23",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-24",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-25",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-26",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-27",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-28",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-29",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-30",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr. Michael Chen",
+      "specialty": "Internal Medicine",
+      "email": "michael.chen@healthcareplus.com",
+      "available_slots": [
+        {
+          "date": "2025-11-01",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-02",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-03",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-04",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-05",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-06",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-07",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-08",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-09",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-10",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-11",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-12",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-13",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-14",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-15",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-16",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-17",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-18",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-19",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-20",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-21",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-22",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-23",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-24",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-25",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-26",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-27",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-28",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-29",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-30",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr. Emily Rodriguez",
+      "specialty": "Family Medicine",
+      "email": "emily.rodriguez@healthcareplus.com",
+      "available_slots": [
+        {
+          "date": "2025-11-01",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-02",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-03",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-04",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-05",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-06",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-07",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-08",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-09",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-10",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-11",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-12",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-13",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-14",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-15",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-16",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-17",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-18",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-19",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-20",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-21",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-22",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-23",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-24",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-25",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-26",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-27",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-28",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": false
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-29",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": false
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "14:30",
+              "end": "15:00",
+              "available": true
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "available": true
+            }
+          ]
+        },
+        {
+          "date": "2025-11-30",
+          "time_slots": [
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "available": true
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "available": true
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "available": true
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "available": true
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "available": true
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "available": true
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "available": true
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "available": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

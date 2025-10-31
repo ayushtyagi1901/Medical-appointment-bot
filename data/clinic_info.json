@@ -1,0 +1,66 @@
+{
+  "clinic_name": "HealthCare Plus Clinic",
+  "address": "123 Medical Center Dr, Mumbai, Maharashtra, India",
+  "phone": "+91 9897761393",
+  "email": "info@healthcareplus.com",
+  "hours": {
+    "monday": "9:00 AM - 5:00 PM",
+    "tuesday": "9:00 AM - 5:00 PM",
+    "wednesday": "9:00 AM - 5:00 PM",
+    "thursday": "9:00 AM - 5:00 PM",
+    "friday": "9:00 AM - 5:00 PM",
+    "saturday": "10:00 AM - 2:00 PM",
+    "sunday": "Closed"
+  },
+  "faqs": [
+    {
+      "question": "What are your operating hours?",
+      "answer": "We are open Monday through Friday from 9:00 AM to 5:00 PM, and Saturday from 10:00 AM to 2:00 PM. We are closed on Sundays."
+    },
+    {
+      "question": "Do you accept insurance?",
+      "answer": "Yes, we accept most major insurance plans including Blue Cross Blue Shield, Aetna, Cigna, and UnitedHealthcare. Please bring your insurance card to your appointment."
+    },
+    {
+      "question": "What should I bring to my appointment?",
+      "answer": "Please bring a valid ID, your insurance card (if applicable), a list of current medications, and any relevant medical records or test results from other providers."
+    },
+    {
+      "question": "How do I cancel or reschedule my appointment?",
+      "answer": "You can cancel or reschedule your appointment by calling us at +91 9897761393 or by using our online portal. We require at least 24 hours notice for cancellations."
+    },
+    {
+      "question": "Is there parking available?",
+      "answer": "Yes, we have free parking available in our parking lot. There is also street parking nearby if the lot is full."
+    },
+    {
+      "question": "Do you offer telemedicine appointments?",
+      "answer": "Yes, we offer telemedicine appointments for follow-up visits and certain types of consultations. Please specify when booking if you prefer a virtual appointment."
+    },
+    {
+      "question": "What types of services do you provide?",
+      "answer": "We provide comprehensive primary care services including annual check-ups, preventive care, chronic disease management, acute illness treatment, vaccinations, and health screenings."
+    },
+    {
+      "question": "How long is a typical appointment?",
+      "answer": "A typical appointment lasts 30 minutes for routine visits and 60 minutes for initial consultations or complex issues. Please arrive 15 minutes early for check-in."
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "We require at least 24 hours notice for appointment cancellations. Cancellations made less than 24 hours before the appointment may be subject to a cancellation fee."
+    },
+    {
+      "question": "Can I get prescription refills without an appointment?",
+      "answer": "Yes, you can request prescription refills through our patient portal or by calling our office. We typically process refill requests within 24-48 hours during business days."
+    },
+    {
+      "question": "Do you provide lab services on-site?",
+      "answer": "Yes, we have an on-site laboratory for blood tests, urinalysis, and other common lab work. Most results are available within 24-48 hours."
+    },
+    {
+      "question": "What should I do if I have a medical emergency?",
+      "answer": "If you have a medical emergency, please call 911 immediately or go to the nearest emergency room. Do not use this appointment system for urgent medical issues."
+    }
+  ]
+}
+
